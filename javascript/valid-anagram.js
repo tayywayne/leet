@@ -20,6 +20,7 @@ var isAnagram = function(s, t) {
 };
 
 // this solutions works becuase if there is anything other than a 0 in the hashmap, there is not a matching number of letter since we increment and decrement the count based on the letters. if the count is 0 for every letter then there is a matching number of letters and the strings are anagrams.
+// solution explination from - https://www.youtube.com/watch?v=YW-yS-iIPNk
 
 
 
